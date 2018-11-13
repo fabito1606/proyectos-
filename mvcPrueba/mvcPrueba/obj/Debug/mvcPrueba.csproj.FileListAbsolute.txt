@@ -1,0 +1,222 @@
+c:\users\pc_ fabito\documents\visual studio 2015\Projects\mvcPrueba\mvcPrueba\bin\ApplicationInsights.config
+c:\users\pc_ fabito\documents\visual studio 2015\Projects\mvcPrueba\mvcPrueba\bin\roslyn\csc.exe
+c:\users\pc_ fabito\documents\visual studio 2015\Projects\mvcPrueba\mvcPrueba\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\pc_ fabito\documents\visual studio 2015\Projects\mvcPrueba\mvcPrueba\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\pc_ fabito\documents\visual studio 2015\Projects\mvcPrueba\mvcPrueba\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\pc_ fabito\documents\visual studio 2015\Projects\mvcPrueba\mvcPrueba\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\pc_ fabito\documents\visual studio 2015\Projects\mvcPrueba\mvcPrueba\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\pc_ fabito\documents\visual studio 2015\Projects\mvcPrueba\mvcPrueba\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\pc_ fabito\documents\visual studio 2015\Projects\mvcPrueba\mvcPrueba\bin\roslyn\System.Collections.Immutable.dll
+c:\users\pc_ fabito\documents\visual studio 2015\Projects\mvcPrueba\mvcPrueba\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\pc_ fabito\documents\visual studio 2015\Projects\mvcPrueba\mvcPrueba\bin\roslyn\vbc.exe
+c:\users\pc_ fabito\documents\visual studio 2015\Projects\mvcPrueba\mvcPrueba\bin\roslyn\VBCSCompiler.exe
+c:\users\pc_ fabito\documents\visual studio 2015\Projects\mvcPrueba\mvcPrueba\bin\roslyn\VBCSCompiler.exe.config
+c:\users\pc_ fabito\documents\visual studio 2015\Projects\mvcPrueba\mvcPrueba\bin\mvcPrueba.dll.config
+c:\users\pc_ fabito\documents\visual studio 2015\Projects\mvcPrueba\mvcPrueba\bin\mvcPrueba.dll
+c:\users\pc_ fabito\documents\visual studio 2015\Projects\mvcPrueba\mvcPrueba\bin\mvcPrueba.pdb
+c:\users\pc_ fabito\documents\visual studio 2015\Projects\mvcPrueba\mvcPrueba\bin\Antlr3.Runtime.dll
+c:\users\pc_ fabito\documents\visual studio 2015\Projects\mvcPrueba\mvcPrueba\bin\EntityFramework.dll
+c:\users\pc_ fabito\documents\visual studio 2015\Projects\mvcPrueba\mvcPrueba\bin\EntityFramework.SqlServer.dll
+c:\users\pc_ fabito\documents\visual studio 2015\Projects\mvcPrueba\mvcPrueba\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\pc_ fabito\documents\visual studio 2015\Projects\mvcPrueba\mvcPrueba\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\pc_ fabito\documents\visual studio 2015\Projects\mvcPrueba\mvcPrueba\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\pc_ fabito\documents\visual studio 2015\Projects\mvcPrueba\mvcPrueba\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\pc_ fabito\documents\visual studio 2015\Projects\mvcPrueba\mvcPrueba\bin\Microsoft.AI.Web.dll
+c:\users\pc_ fabito\documents\visual studio 2015\Projects\mvcPrueba\mvcPrueba\bin\Microsoft.AI.WindowsServer.dll
+c:\users\pc_ fabito\documents\visual studio 2015\Projects\mvcPrueba\mvcPrueba\bin\Microsoft.ApplicationInsights.dll
+c:\users\pc_ fabito\documents\visual studio 2015\Projects\mvcPrueba\mvcPrueba\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\pc_ fabito\documents\visual studio 2015\Projects\mvcPrueba\mvcPrueba\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\pc_ fabito\documents\visual studio 2015\Projects\mvcPrueba\mvcPrueba\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\pc_ fabito\documents\visual studio 2015\Projects\mvcPrueba\mvcPrueba\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\pc_ fabito\documents\visual studio 2015\Projects\mvcPrueba\mvcPrueba\bin\Microsoft.Owin.dll
+c:\users\pc_ fabito\documents\visual studio 2015\Projects\mvcPrueba\mvcPrueba\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\pc_ fabito\documents\visual studio 2015\Projects\mvcPrueba\mvcPrueba\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\pc_ fabito\documents\visual studio 2015\Projects\mvcPrueba\mvcPrueba\bin\Microsoft.Owin.Security.dll
+c:\users\pc_ fabito\documents\visual studio 2015\Projects\mvcPrueba\mvcPrueba\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\pc_ fabito\documents\visual studio 2015\Projects\mvcPrueba\mvcPrueba\bin\Microsoft.Owin.Security.Google.dll
+c:\users\pc_ fabito\documents\visual studio 2015\Projects\mvcPrueba\mvcPrueba\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\pc_ fabito\documents\visual studio 2015\Projects\mvcPrueba\mvcPrueba\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\pc_ fabito\documents\visual studio 2015\Projects\mvcPrueba\mvcPrueba\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\pc_ fabito\documents\visual studio 2015\Projects\mvcPrueba\mvcPrueba\bin\Microsoft.Web.Infrastructure.dll
+c:\users\pc_ fabito\documents\visual studio 2015\Projects\mvcPrueba\mvcPrueba\bin\Newtonsoft.Json.dll
+c:\users\pc_ fabito\documents\visual studio 2015\Projects\mvcPrueba\mvcPrueba\bin\Owin.dll
+c:\users\pc_ fabito\documents\visual studio 2015\Projects\mvcPrueba\mvcPrueba\bin\System.Web.Helpers.dll
+c:\users\pc_ fabito\documents\visual studio 2015\Projects\mvcPrueba\mvcPrueba\bin\System.Web.Mvc.dll
+c:\users\pc_ fabito\documents\visual studio 2015\Projects\mvcPrueba\mvcPrueba\bin\System.Web.Optimization.dll
+c:\users\pc_ fabito\documents\visual studio 2015\Projects\mvcPrueba\mvcPrueba\bin\System.Web.Razor.dll
+c:\users\pc_ fabito\documents\visual studio 2015\Projects\mvcPrueba\mvcPrueba\bin\System.Web.WebPages.Deployment.dll
+c:\users\pc_ fabito\documents\visual studio 2015\Projects\mvcPrueba\mvcPrueba\bin\System.Web.WebPages.dll
+c:\users\pc_ fabito\documents\visual studio 2015\Projects\mvcPrueba\mvcPrueba\bin\System.Web.WebPages.Razor.dll
+c:\users\pc_ fabito\documents\visual studio 2015\Projects\mvcPrueba\mvcPrueba\bin\WebGrease.dll
+c:\users\pc_ fabito\documents\visual studio 2015\Projects\mvcPrueba\mvcPrueba\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\pc_ fabito\documents\visual studio 2015\Projects\mvcPrueba\mvcPrueba\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\pc_ fabito\documents\visual studio 2015\Projects\mvcPrueba\mvcPrueba\bin\Microsoft.AI.Web.xml
+c:\users\pc_ fabito\documents\visual studio 2015\Projects\mvcPrueba\mvcPrueba\bin\Microsoft.AI.WindowsServer.xml
+c:\users\pc_ fabito\documents\visual studio 2015\Projects\mvcPrueba\mvcPrueba\bin\Microsoft.ApplicationInsights.xml
+c:\users\pc_ fabito\documents\visual studio 2015\Projects\mvcPrueba\mvcPrueba\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\pc_ fabito\documents\visual studio 2015\Projects\mvcPrueba\mvcPrueba\bin\System.Web.Helpers.xml
+c:\users\pc_ fabito\documents\visual studio 2015\Projects\mvcPrueba\mvcPrueba\bin\System.Web.Mvc.xml
+c:\users\pc_ fabito\documents\visual studio 2015\Projects\mvcPrueba\mvcPrueba\bin\System.Web.Optimization.xml
+c:\users\pc_ fabito\documents\visual studio 2015\Projects\mvcPrueba\mvcPrueba\bin\System.Web.Razor.xml
+c:\users\pc_ fabito\documents\visual studio 2015\Projects\mvcPrueba\mvcPrueba\bin\System.Web.WebPages.xml
+c:\users\pc_ fabito\documents\visual studio 2015\Projects\mvcPrueba\mvcPrueba\bin\System.Web.WebPages.Deployment.xml
+c:\users\pc_ fabito\documents\visual studio 2015\Projects\mvcPrueba\mvcPrueba\bin\System.Web.WebPages.Razor.xml
+c:\users\pc_ fabito\documents\visual studio 2015\Projects\mvcPrueba\mvcPrueba\bin\Antlr3.Runtime.pdb
+c:\users\pc_ fabito\documents\visual studio 2015\Projects\mvcPrueba\mvcPrueba\bin\Newtonsoft.Json.xml
+c:\users\pc_ fabito\documents\visual studio 2015\Projects\mvcPrueba\mvcPrueba\bin\EntityFramework.xml
+c:\users\pc_ fabito\documents\visual studio 2015\Projects\mvcPrueba\mvcPrueba\bin\EntityFramework.SqlServer.xml
+c:\users\pc_ fabito\documents\visual studio 2015\Projects\mvcPrueba\mvcPrueba\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\pc_ fabito\documents\visual studio 2015\Projects\mvcPrueba\mvcPrueba\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\pc_ fabito\documents\visual studio 2015\Projects\mvcPrueba\mvcPrueba\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\pc_ fabito\documents\visual studio 2015\Projects\mvcPrueba\mvcPrueba\bin\Microsoft.Owin.xml
+c:\users\pc_ fabito\documents\visual studio 2015\Projects\mvcPrueba\mvcPrueba\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\pc_ fabito\documents\visual studio 2015\Projects\mvcPrueba\mvcPrueba\bin\Microsoft.Owin.Security.xml
+c:\users\pc_ fabito\documents\visual studio 2015\Projects\mvcPrueba\mvcPrueba\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\pc_ fabito\documents\visual studio 2015\Projects\mvcPrueba\mvcPrueba\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\pc_ fabito\documents\visual studio 2015\Projects\mvcPrueba\mvcPrueba\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\pc_ fabito\documents\visual studio 2015\Projects\mvcPrueba\mvcPrueba\bin\Microsoft.Owin.Security.Google.xml
+c:\users\pc_ fabito\documents\visual studio 2015\Projects\mvcPrueba\mvcPrueba\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\pc_ fabito\documents\visual studio 2015\Projects\mvcPrueba\mvcPrueba\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\pc_ fabito\documents\visual studio 2015\Projects\mvcPrueba\mvcPrueba\bin\es\System.Web.Helpers.resources.dll
+c:\users\pc_ fabito\documents\visual studio 2015\Projects\mvcPrueba\mvcPrueba\bin\es\System.Web.Mvc.resources.dll
+c:\users\pc_ fabito\documents\visual studio 2015\Projects\mvcPrueba\mvcPrueba\bin\es\System.Web.Optimization.resources.dll
+c:\users\pc_ fabito\documents\visual studio 2015\Projects\mvcPrueba\mvcPrueba\bin\es\System.Web.Razor.resources.dll
+c:\users\pc_ fabito\documents\visual studio 2015\Projects\mvcPrueba\mvcPrueba\bin\es\System.Web.WebPages.resources.dll
+c:\users\pc_ fabito\documents\visual studio 2015\Projects\mvcPrueba\mvcPrueba\bin\es\System.Web.WebPages.Deployment.resources.dll
+c:\users\pc_ fabito\documents\visual studio 2015\Projects\mvcPrueba\mvcPrueba\bin\es\System.Web.WebPages.Razor.resources.dll
+c:\users\pc_ fabito\documents\visual studio 2015\Projects\mvcPrueba\mvcPrueba\bin\es\EntityFramework.resources.dll
+c:\users\pc_ fabito\documents\visual studio 2015\Projects\mvcPrueba\mvcPrueba\bin\es\EntityFramework.SqlServer.resources.dll
+c:\users\pc_ fabito\documents\visual studio 2015\Projects\mvcPrueba\mvcPrueba\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+c:\users\pc_ fabito\documents\visual studio 2015\Projects\mvcPrueba\mvcPrueba\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+c:\users\pc_ fabito\documents\visual studio 2015\Projects\mvcPrueba\mvcPrueba\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+c:\users\pc_ fabito\documents\visual studio 2015\Projects\mvcPrueba\mvcPrueba\bin\es\Microsoft.Owin.resources.dll
+c:\users\pc_ fabito\documents\visual studio 2015\Projects\mvcPrueba\mvcPrueba\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+c:\users\pc_ fabito\documents\visual studio 2015\Projects\mvcPrueba\mvcPrueba\bin\es\Microsoft.Owin.Security.resources.dll
+c:\users\pc_ fabito\documents\visual studio 2015\Projects\mvcPrueba\mvcPrueba\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+c:\users\pc_ fabito\documents\visual studio 2015\Projects\mvcPrueba\mvcPrueba\bin\es\Microsoft.Owin.Security.Google.resources.dll
+c:\users\pc_ fabito\documents\visual studio 2015\Projects\mvcPrueba\mvcPrueba\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+c:\users\pc_ fabito\documents\visual studio 2015\Projects\mvcPrueba\mvcPrueba\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+c:\users\pc_ fabito\documents\visual studio 2015\Projects\mvcPrueba\mvcPrueba\obj\Debug\mvcPrueba.csprojResolveAssemblyReference.cache
+c:\users\pc_ fabito\documents\visual studio 2015\Projects\mvcPrueba\mvcPrueba\obj\Debug\mvcPrueba.dll
+c:\users\pc_ fabito\documents\visual studio 2015\Projects\mvcPrueba\mvcPrueba\obj\Debug\mvcPrueba.pdb
+c:\users\pc_ fabito\documents\visual studio 2015\Projects\mvcPrueba\mvcPrueba\bin\System.Net.Http.Formatting.dll
+c:\users\pc_ fabito\documents\visual studio 2015\Projects\mvcPrueba\mvcPrueba\bin\System.Web.Http.dll
+c:\users\pc_ fabito\documents\visual studio 2015\Projects\mvcPrueba\mvcPrueba\bin\System.Web.Http.WebHost.dll
+c:\users\pc_ fabito\documents\visual studio 2015\Projects\mvcPrueba\mvcPrueba\bin\System.Net.Http.Formatting.xml
+c:\users\pc_ fabito\documents\visual studio 2015\Projects\mvcPrueba\mvcPrueba\bin\System.Web.Http.xml
+c:\users\pc_ fabito\documents\visual studio 2015\Projects\mvcPrueba\mvcPrueba\bin\System.Web.Http.WebHost.xml
+c:\users\pc_ fabito\documents\visual studio 2015\Projects\mvcPrueba\mvcPrueba\bin\es\System.Net.Http.Formatting.resources.dll
+c:\users\pc_ fabito\documents\visual studio 2015\Projects\mvcPrueba\mvcPrueba\bin\es\System.Web.Http.resources.dll
+c:\users\pc_ fabito\documents\visual studio 2015\Projects\mvcPrueba\mvcPrueba\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\Nico\source\repos\mvcPrueba\mvcPrueba\bin\ApplicationInsights.config
+C:\Users\Nico\source\repos\mvcPrueba\mvcPrueba\bin\roslyn\csc.exe
+C:\Users\Nico\source\repos\mvcPrueba\mvcPrueba\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Nico\source\repos\mvcPrueba\mvcPrueba\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Nico\source\repos\mvcPrueba\mvcPrueba\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Nico\source\repos\mvcPrueba\mvcPrueba\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Nico\source\repos\mvcPrueba\mvcPrueba\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Nico\source\repos\mvcPrueba\mvcPrueba\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Nico\source\repos\mvcPrueba\mvcPrueba\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Nico\source\repos\mvcPrueba\mvcPrueba\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Nico\source\repos\mvcPrueba\mvcPrueba\bin\roslyn\vbc.exe
+C:\Users\Nico\source\repos\mvcPrueba\mvcPrueba\bin\roslyn\VBCSCompiler.exe
+C:\Users\Nico\source\repos\mvcPrueba\mvcPrueba\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Nico\source\repos\mvcPrueba\mvcPrueba\bin\mvcPrueba.dll.config
+C:\Users\Nico\source\repos\mvcPrueba\mvcPrueba\bin\mvcPrueba.dll
+C:\Users\Nico\source\repos\mvcPrueba\mvcPrueba\bin\mvcPrueba.pdb
+C:\Users\Nico\source\repos\mvcPrueba\mvcPrueba\bin\Antlr3.Runtime.dll
+C:\Users\Nico\source\repos\mvcPrueba\mvcPrueba\bin\EntityFramework.dll
+C:\Users\Nico\source\repos\mvcPrueba\mvcPrueba\bin\EntityFramework.SqlServer.dll
+C:\Users\Nico\source\repos\mvcPrueba\mvcPrueba\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Nico\source\repos\mvcPrueba\mvcPrueba\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Nico\source\repos\mvcPrueba\mvcPrueba\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Nico\source\repos\mvcPrueba\mvcPrueba\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Nico\source\repos\mvcPrueba\mvcPrueba\bin\Microsoft.AI.Web.dll
+C:\Users\Nico\source\repos\mvcPrueba\mvcPrueba\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Nico\source\repos\mvcPrueba\mvcPrueba\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Nico\source\repos\mvcPrueba\mvcPrueba\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Nico\source\repos\mvcPrueba\mvcPrueba\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Nico\source\repos\mvcPrueba\mvcPrueba\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Nico\source\repos\mvcPrueba\mvcPrueba\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Nico\source\repos\mvcPrueba\mvcPrueba\bin\Microsoft.Owin.dll
+C:\Users\Nico\source\repos\mvcPrueba\mvcPrueba\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Nico\source\repos\mvcPrueba\mvcPrueba\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Nico\source\repos\mvcPrueba\mvcPrueba\bin\Microsoft.Owin.Security.dll
+C:\Users\Nico\source\repos\mvcPrueba\mvcPrueba\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Nico\source\repos\mvcPrueba\mvcPrueba\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Nico\source\repos\mvcPrueba\mvcPrueba\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Nico\source\repos\mvcPrueba\mvcPrueba\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Nico\source\repos\mvcPrueba\mvcPrueba\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Nico\source\repos\mvcPrueba\mvcPrueba\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Nico\source\repos\mvcPrueba\mvcPrueba\bin\Newtonsoft.Json.dll
+C:\Users\Nico\source\repos\mvcPrueba\mvcPrueba\bin\Owin.dll
+C:\Users\Nico\source\repos\mvcPrueba\mvcPrueba\bin\System.Net.Http.Formatting.dll
+C:\Users\Nico\source\repos\mvcPrueba\mvcPrueba\bin\System.Web.Helpers.dll
+C:\Users\Nico\source\repos\mvcPrueba\mvcPrueba\bin\System.Web.Http.dll
+C:\Users\Nico\source\repos\mvcPrueba\mvcPrueba\bin\System.Web.Http.WebHost.dll
+C:\Users\Nico\source\repos\mvcPrueba\mvcPrueba\bin\System.Web.Mvc.dll
+C:\Users\Nico\source\repos\mvcPrueba\mvcPrueba\bin\System.Web.Optimization.dll
+C:\Users\Nico\source\repos\mvcPrueba\mvcPrueba\bin\System.Web.Razor.dll
+C:\Users\Nico\source\repos\mvcPrueba\mvcPrueba\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Nico\source\repos\mvcPrueba\mvcPrueba\bin\System.Web.WebPages.dll
+C:\Users\Nico\source\repos\mvcPrueba\mvcPrueba\bin\System.Web.WebPages.Razor.dll
+C:\Users\Nico\source\repos\mvcPrueba\mvcPrueba\bin\WebGrease.dll
+C:\Users\Nico\source\repos\mvcPrueba\mvcPrueba\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Nico\source\repos\mvcPrueba\mvcPrueba\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Nico\source\repos\mvcPrueba\mvcPrueba\bin\Microsoft.AI.Web.xml
+C:\Users\Nico\source\repos\mvcPrueba\mvcPrueba\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Nico\source\repos\mvcPrueba\mvcPrueba\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Nico\source\repos\mvcPrueba\mvcPrueba\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Nico\source\repos\mvcPrueba\mvcPrueba\bin\Newtonsoft.Json.xml
+C:\Users\Nico\source\repos\mvcPrueba\mvcPrueba\bin\System.Net.Http.Formatting.xml
+C:\Users\Nico\source\repos\mvcPrueba\mvcPrueba\bin\System.Web.Http.xml
+C:\Users\Nico\source\repos\mvcPrueba\mvcPrueba\bin\System.Web.Http.WebHost.xml
+C:\Users\Nico\source\repos\mvcPrueba\mvcPrueba\bin\System.Web.Helpers.xml
+C:\Users\Nico\source\repos\mvcPrueba\mvcPrueba\bin\System.Web.Mvc.xml
+C:\Users\Nico\source\repos\mvcPrueba\mvcPrueba\bin\System.Web.Optimization.xml
+C:\Users\Nico\source\repos\mvcPrueba\mvcPrueba\bin\System.Web.Razor.xml
+C:\Users\Nico\source\repos\mvcPrueba\mvcPrueba\bin\System.Web.WebPages.xml
+C:\Users\Nico\source\repos\mvcPrueba\mvcPrueba\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Nico\source\repos\mvcPrueba\mvcPrueba\bin\System.Web.WebPages.Razor.xml
+C:\Users\Nico\source\repos\mvcPrueba\mvcPrueba\bin\Antlr3.Runtime.pdb
+C:\Users\Nico\source\repos\mvcPrueba\mvcPrueba\bin\EntityFramework.xml
+C:\Users\Nico\source\repos\mvcPrueba\mvcPrueba\bin\EntityFramework.SqlServer.xml
+C:\Users\Nico\source\repos\mvcPrueba\mvcPrueba\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Nico\source\repos\mvcPrueba\mvcPrueba\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Nico\source\repos\mvcPrueba\mvcPrueba\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Nico\source\repos\mvcPrueba\mvcPrueba\bin\Microsoft.Owin.xml
+C:\Users\Nico\source\repos\mvcPrueba\mvcPrueba\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Nico\source\repos\mvcPrueba\mvcPrueba\bin\Microsoft.Owin.Security.xml
+C:\Users\Nico\source\repos\mvcPrueba\mvcPrueba\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Nico\source\repos\mvcPrueba\mvcPrueba\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Nico\source\repos\mvcPrueba\mvcPrueba\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Nico\source\repos\mvcPrueba\mvcPrueba\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Nico\source\repos\mvcPrueba\mvcPrueba\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Nico\source\repos\mvcPrueba\mvcPrueba\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Nico\source\repos\mvcPrueba\mvcPrueba\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\Nico\source\repos\mvcPrueba\mvcPrueba\bin\es\System.Web.Http.resources.dll
+C:\Users\Nico\source\repos\mvcPrueba\mvcPrueba\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\Nico\source\repos\mvcPrueba\mvcPrueba\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Nico\source\repos\mvcPrueba\mvcPrueba\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Nico\source\repos\mvcPrueba\mvcPrueba\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Nico\source\repos\mvcPrueba\mvcPrueba\bin\es\System.Web.Razor.resources.dll
+C:\Users\Nico\source\repos\mvcPrueba\mvcPrueba\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Nico\source\repos\mvcPrueba\mvcPrueba\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Nico\source\repos\mvcPrueba\mvcPrueba\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Nico\source\repos\mvcPrueba\mvcPrueba\bin\es\EntityFramework.resources.dll
+C:\Users\Nico\source\repos\mvcPrueba\mvcPrueba\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\Nico\source\repos\mvcPrueba\mvcPrueba\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Nico\source\repos\mvcPrueba\mvcPrueba\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Nico\source\repos\mvcPrueba\mvcPrueba\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Nico\source\repos\mvcPrueba\mvcPrueba\bin\es\Microsoft.Owin.resources.dll
+C:\Users\Nico\source\repos\mvcPrueba\mvcPrueba\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Nico\source\repos\mvcPrueba\mvcPrueba\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\Nico\source\repos\mvcPrueba\mvcPrueba\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\Nico\source\repos\mvcPrueba\mvcPrueba\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\Nico\source\repos\mvcPrueba\mvcPrueba\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\Nico\source\repos\mvcPrueba\mvcPrueba\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\Nico\source\repos\mvcPrueba\mvcPrueba\obj\Debug\mvcPrueba.csprojAssemblyReference.cache
+C:\Users\Nico\source\repos\mvcPrueba\mvcPrueba\obj\Debug\mvcPrueba.csproj.CoreCompileInputs.cache
+C:\Users\Nico\source\repos\mvcPrueba\mvcPrueba\obj\Debug\mvcPrueba.csproj.CopyComplete
+C:\Users\Nico\source\repos\mvcPrueba\mvcPrueba\obj\Debug\mvcPrueba.dll
+C:\Users\Nico\source\repos\mvcPrueba\mvcPrueba\obj\Debug\mvcPrueba.pdb

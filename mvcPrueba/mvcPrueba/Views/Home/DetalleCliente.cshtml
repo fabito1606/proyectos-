@@ -1,0 +1,86 @@
+﻿@using mvcPrueba.Models;
+
+@{
+    ViewBag.Title = "Detalle Cliente";
+}
+
+
+
+<br />
+<br />
+
+<ul>
+    @foreach (var std in ViewData["lista"] as List<modelo_lista>)
+    {
+        <li>
+            @std.nombre.ToString()
+        </li>
+    }
+</ul>
+<br />
+
+
+
+<div class="row">
+    <div class="col-md-2"></div>
+   
+     <div class="col-md-8">
+
+      @foreach (var std in ViewData["lista"] as List<modelo_lista>)
+      {
+
+        <table class="table table-bordered" id="TbListado">
+            <thead>
+                <tr>
+                    <th scope="col">Codigo</th>
+                    <th scope="col">Nombre</th>
+                    <th scope="col">Ciudad</th>
+                    <th scope="col">Dirección</th>
+                    <th scope="col">Estado</th>
+                    <th scope="col">Fecha de Registro</th>
+
+                </tr>
+            </thead>
+            <tbody>
+                <!--
+                   va a buscar data obtenida desde el controlador Homecontroller el cual a traves de el modelo_lista del model trae la data parametrizada
+                    -->
+
+
+
+                <tr>
+                    <th scope="row">@std.id.ToString()</th>
+                    <td>@std.nombre.ToString()</td>
+                    <td>@std.ciudad.ToString()</td>
+                    <td>@std.direccion.ToString()</td>
+
+
+
+                    @if ((std.estado.ToString() == "true") && (std.id != 31672))
+                {
+                        <td bgcolor="#01DF3A">ACEPTADO</td>
+                    }
+                    else
+                    {
+                        <td bgcolor="#F7D358">RECHAZADO</td>
+                    }
+                    <td>@std.fecha_registro.ToString()</td>
+                </tr>
+
+            </tbody>
+        </table>
+      }
+
+         <!--
+       boton retorna a pagina principal
+           -->
+
+
+         @Html.ActionLink("Volver a Inicio", "Index", "Home",null, new { @class = "btn btn-danger" })
+
+
+
+     </div>
+
+       <div class="col-md-2"> </div>
+        </div>

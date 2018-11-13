@@ -1,0 +1,145 @@
+﻿@{
+    ViewBag.Title = "Test Api";
+}
+
+
+
+<div class="row">
+    <div class="col-md-2">
+       
+    </div>
+   
+    
+     <div class="col-md-8">
+
+         <h2>Listado Obtenido Url http://www.incentive.cl:8004/Api/Clientes </h2>
+         <ul></ul>
+         <br />
+
+
+         <input type="text" class="form-control mr-sm-2" id="ImNombre" onkeyup="FBuscaNombre()" placeholder="BUSQUE POR NOMBRE">
+         <br>
+       
+        <table class="table table-bordered" id="TbListado">
+            <thead>
+                <tr>
+                    <th scope="col">Codigo</th>
+                    <th scope="col">Nombre</th>
+                    <th scope="col">eliminar</th>
+                   
+
+                </tr>
+            </thead>
+            <tbody>
+                <!--
+               va a buscar data obtenida desde el controlador Homecontroller el cual a traves de el modelo_lista del model trae la data parametrizada
+                -->
+
+                @foreach (var modelo_lista in Model)
+                {
+
+                   
+                        <tr id="@modelo_lista.codigo">
+                            
+                                <th scope="row">@modelo_lista.codigo</th>
+                                <td>
+                                 
+                                        <a href="@Url.Action("DetalleCliente", "Home",
+                                        new {
+                                            id = @modelo_lista.codigo, Nom= @modelo_lista.nombre,
+                                            ci = @modelo_lista.ciudad,
+                                            ad = @modelo_lista.direccion,
+                                            e = @modelo_lista.estado,
+                                            feR= @modelo_lista.fecha_registro
+                                        })">@modelo_lista.nombre</a>
+
+
+
+                                        <br />
+
+                                    
+                                </td>
+                                <td><button type="button" id="eliminar" class="btn-warning" onClick="Feliminar()" value="@modelo_lista.codigo">eliminar</button></td>
+                                
+                        </tr>
+                 
+                }
+            </tbody>
+        </table>
+
+
+
+
+
+
+
+
+
+
+        
+        
+       
+
+
+
+        <!--
+        se incorpora funcion buscador por nombre a traves de JS en archivo bootstrap.js llamado FBuscaNombre
+     -->
+
+        
+        <table class="table table-bordered" id="TbListado">
+            <thead>
+                <tr>
+                    <th scope="col">Codigo</th>
+                    <th scope="col">Nombre</th>
+                    <th scope="col">Ciudad</th>
+                    <th scope="col">Dirección</th>
+                    <th scope="col">Estado</th>
+                    <th scope="col">Fecha de Registro</th>
+
+                </tr>
+            </thead>
+            <tbody >
+                <!--
+                   va a buscar data obtenida desde el controlador Homecontroller el cual a traves de el modelo_lista del model trae la data parametrizada
+                    -->
+
+                   @foreach (var modelo_lista in Model)
+                   {
+
+                <tr>
+                    <th scope="row">@modelo_lista.codigo</th>
+                    <td>@modelo_lista.nombre</td>
+                    <td>@modelo_lista.ciudad</td>
+                    <td>@modelo_lista.direccion</td>
+                    
+                    @if((modelo_lista.estado =="true") && (modelo_lista.codigo != 31672))
+                    {
+                    <td  bgcolor="#01DF3A">ACEPTADO</td>
+                    }else{
+                    <td bgcolor="#F7D358">RECHAZADO</td>
+                    }
+                    <td>@modelo_lista.fecha_registro</td>
+                </tr>
+                   }
+            </tbody>
+        </table>
+
+        <!--
+            se crea una tabla con bootstrap marginandola a pantalla
+        -->
+
+        
+
+ 
+
+    </div>
+
+
+
+        <div class="col-md-2">
+
+
+
+        </div>
+    </div>
